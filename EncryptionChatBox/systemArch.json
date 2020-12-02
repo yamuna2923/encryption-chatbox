@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "uid": "String",
+            "name": "String",
+            "emailId": "String",
+            "dateOfBirth": "Timestamp",
+            "username": "String",
+            "phoneNumber": "String",
+            "city": "String",
+            "state": "String",
+            "country": "String",
+            "countryCode": "String",
+            "pinCode": "String",
+            "joinedOn": "String",
+            "lastUsedOn": "String"
+        },
+        ...
+    ],
+
+    "messages": [
+        {
+            "publicKey": "String",
+            "privateKey": "String",
+            
+            "{{chatGroupId}}": [
+                {
+                    "content": "String (Encrypted)",
+                    "fromId": "String",
+                    "toId": "String",
+                    "timestamp": "DateString"
+                },
+                ...
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "925508211576",
+    "firebase_url": "https://encryptionchatbox.firebaseio.com",
+    "project_id": "encryptionchatbox",
+    "storage_bucket": "encryptionchatbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925508211576:android:d48964bdda05f4eb582e8d",
+        "android_client_info": {
+          "package_name": "com.yamuna.encryptionChatBox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925508211576-d0ah8060mdlsbhvdl4mqbtun4qjdu7cl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yamuna.encryptionChatBox",
+            "certificate_hash": "ddab768f85883156275efbf4872b26c89445afee"
+          }
+        },
+        {
+          "client_id": "925508211576-l4684gd7blugkpk7qmmp0p9ta7m25n7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlJC8yGeWqOsSbva3lIfYjafq8vI_uk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925508211576-l4684gd7blugkpk7qmmp0p9ta7m25n7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
